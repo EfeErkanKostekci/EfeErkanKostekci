@@ -1,24 +1,29 @@
 <div align="center">
 
-  # Merhaba, Ben Bir Gömülü Yazılım Tutkunuyum! 🛡️
+  # Merhaba, Ben Muhammed Emin! 👋
+  
+  ### 🇹🇷 Gömülü Yazılım & Savunma Sanayii Tutkunu
+  ### 🇬🇧 Embedded Software & Defense Industry Enthusiast
 
-  ![Ziyaretçi Sayısı](https://komarev.com/ghpvc/?username=EfeErkanKostekci&label=Profil%20Ziyaretçileri&color=red)
+  ![Visitor Count](https://komarev.com/ghpvc/?username=EfeErkanKostekci&label=Profile%20Views&color=red)
 
   <br>
 
-  **Savunma Sanayii** teknolojilerine odaklanmış, kritik ve gerçek zamanlı sistemler üzerine çalışan bir mühendis adayıyım.
+  🇹🇷 **Savunma Sanayii** teknolojilerine odaklanmış, kritik ve gerçek zamanlı sistemler üzerine çalışan bir mühendis adayıyım.
   <br>
-  Şu anda **C++** ve **Gömülü Sistem Mimarileri** üzerine uzmanlaşma yolundayım.
+  🇬🇧 An engineering student focused on **Defense Industry** technologies, working on critical and real-time systems.
 
 </div>
 
 ---
 
-### 🚀 Odak Alanlarım ve Hedeflerim
+### 🚀 Odak Alanlarım / Focus Areas
 
-* 🛡️ **Savunma Sanayii:** Kritik görev sistemleri ve savunma teknolojileri.
-* 🔌 **Gömülü Yazılım:** Mikrodenetleyiciler (Arduino vb.) ve düşük seviye programlama.
-* ⚡ **Yüksek Performans:** C#, Java ve Python bilgimi, C++ ile birleştirerek performans odaklı yazılımlar geliştirmek.
+| 🇹🇷 Türkçe | 🇬🇧 English |
+| :--- | :--- |
+| 🛡️ **Savunma Sanayii:** Kritik görev sistemleri ve savunma teknolojileri. | 🛡️ **Defense Industry:** Mission-critical systems and defense tech. |
+| 🔌 **Gömülü Yazılım:** Mikrodenetleyiciler ve donanım odaklı yazılım. | 🔌 **Embedded Software:** Microcontrollers and hardware-oriented software. |
+| ⚡ **Yüksek Performans:** C#, Java ve Python deneyimi. | ⚡ **High Performance:** Experience in C#, Java, and Python. |
 
 ---
 
@@ -33,14 +38,14 @@
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
-### 🌱 Şu Anda Öğreniyorum
+### 🌱 Şu Anda Öğreniyorum / Currently Learning
 
 <div align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++_Learning-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </div>
 
 <br>
 
 <div align="center">
-  <i>"Donanımın ruhu yazılımdır." vizyonuyla geliştiriyorum.</i>
+  <i>"Donanımın ruhu yazılımdır." / "Software is the soul of hardware."</i>
 </div>
