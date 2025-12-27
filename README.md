@@ -2,7 +2,7 @@
 
   # Merhaba, Ben Bir Gömülü Yazılım Tutkunuyum! 🛡️
 
-  ![Ziyaretçi Sayısı](https://komarev.com/ghpvc/?username=KULLANICI_ADINIZ&label=Profil%20Ziyaretçileri&color=red)
+  ![Ziyaretçi Sayısı](https://komarev.com/ghpvc/?username=EfeErkanKostekci&label=Profil%20Ziyaretçileri&color=red)
 
   <br>
 
@@ -19,7 +19,6 @@
 * 🛡️ **Savunma Sanayii:** Kritik görev sistemleri ve savunma teknolojileri.
 * 🔌 **Gömülü Yazılım:** Mikrodenetleyiciler (Arduino vb.) ve düşük seviye programlama.
 * ⚡ **Yüksek Performans:** C#, Java ve Python bilgimi, C++ ile birleştirerek performans odaklı yazılımlar geliştirmek.
-* 🔒 **Güvenlik:** Elektrikli araç şarj istasyonları ve donanım güvenliği üzerine çalışmalar.
 
 ---
 
@@ -37,7 +36,7 @@
 ### 🌱 Şu Anda Öğreniyorum
 
 <div align="left">
-  <img src="https://img.shields.io/badge/C++_Learning-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </div>
 
 <br>
