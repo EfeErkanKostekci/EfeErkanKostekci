@@ -3,7 +3,7 @@
   # Merhaba, Ben Efe Erkan KÖSTEKÇİ! 👋
   
   ### 🇹🇷 Gömülü Yazılım & Savunma Sanayii Tutkunu
-  ### 🇬🇧 Embedded Software & Defense Industry Enthusiast
+  ### 🇪🇳 Embedded Software & Defense Industry Enthusiast
 
   ![Visitor Count](https://komarev.com/ghpvc/?username=EfeErkanKostekci&label=Profile%20Views&color=red)
 
@@ -11,7 +11,7 @@
 
   🇹🇷 **Savunma Sanayii** teknolojilerine odaklanmış, kritik ve gerçek zamanlı sistemler üzerine çalışan bir mühendis adayıyım.
   <br>
-  🇬🇧 An engineering student focused on **Defense Industry** technologies, working on critical and real-time systems.
+  🇪🇳 An engineering student focused on **Defense Industry** technologies, working on critical and real-time systems.
 
 </div>
 
@@ -19,7 +19,7 @@
 
 ### 🚀 Odak Alanlarım / Focus Areas
 
-| 🇹🇷 Türkçe | 🇬🇧 English |
+| 🇹🇷 Türkçe | 🇪🇳 English |
 | :--- | :--- |
 | 🛡️ **Savunma Sanayii:** Kritik görev sistemleri ve savunma teknolojileri. | 🛡️ **Defense Industry:** Mission-critical systems and defense tech. |
 | 🔌 **Gömülü Yazılım:** Mikrodenetleyiciler ve donanım odaklı yazılım. | 🔌 **Embedded Software:** Microcontrollers and hardware-oriented software. |
@@ -27,7 +27,7 @@
 
 ---
 
-### 🛠️ Teknoloji Yığınım (Tech Stack)
+### 🛠️ Teknoloji Yığınım / Tech Stack
 
 <div align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
